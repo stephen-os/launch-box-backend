@@ -1,0 +1,4 @@
+package com.stephen.launch_box.model;
+
+public class Launches {
+}
